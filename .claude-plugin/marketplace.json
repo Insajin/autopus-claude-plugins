@@ -1,0 +1,27 @@
+{
+  "name": "autopus-plugins",
+  "owner": {
+    "name": "Insajin",
+    "email": "contact@autopus.co"
+  },
+  "metadata": {
+    "description": "Autopus platform integration plugins for Claude Code",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "autopus",
+      "source": "./autopus",
+      "description": "Autopus platform integration - execute tasks, monitor agents, and access knowledge base through Bridge CLI",
+      "version": "1.0.0",
+      "author": {
+        "name": "Insajin"
+      },
+      "homepage": "https://autopus.co",
+      "license": "MIT",
+      "keywords": ["autopus", "agent", "task-execution", "workspace", "bridge", "ai-orchestration"],
+      "category": "integration"
+    }
+  ]
+}
