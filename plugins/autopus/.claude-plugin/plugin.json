@@ -9,8 +9,5 @@
   "repository": "https://github.com/insajin/autopus-claude-plugins",
   "license": "MIT",
   "keywords": ["autopus", "agent", "task-execution", "workspace", "bridge"],
-  "commands": "./commands/",
-  "agents": "./agents/",
-  "skills": "./skills/",
   "hooks": "./hooks/hooks.json"
 }
