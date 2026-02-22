@@ -6,13 +6,12 @@
   },
   "metadata": {
     "description": "Autopus platform integration plugins for Claude Code",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "autopus",
-      "source": "./autopus",
+      "source": "./plugins/autopus",
       "description": "Autopus platform integration - execute tasks, monitor agents, and access knowledge base through Bridge CLI",
       "version": "1.0.0",
       "author": {
